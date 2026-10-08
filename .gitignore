@@ -1,0 +1,9 @@
+# Archivos del sistema de Mac
+.DS_Store
+Icon?
+
+# Temporales de Word
+~$*
+
+# Copias automáticas de Jupyter
+.ipynb_checkpoints/
